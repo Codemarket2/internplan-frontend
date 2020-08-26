@@ -1,15 +1,15 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-internplanfrontend-dev-205254-authRole",
-            "UnauthRoleArn": "arn:aws:iam::784380094623:role/amplify-internplanfrontend-dev-205254-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::784380094623:role/amplify-internplanfrontend-dev-205254-authRole",
+            "AuthRoleName": "amplify-internplanfrontend-dev-234808-authRole",
+            "UnauthRoleArn": "arn:aws:iam::784380094623:role/amplify-internplanfrontend-dev-234808-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::784380094623:role/amplify-internplanfrontend-dev-234808-authRole",
             "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-internplanfrontend-dev-205254-deployment",
-            "UnauthRoleName": "amplify-internplanfrontend-dev-205254-unauthRole",
-            "StackName": "amplify-internplanfrontend-dev-205254",
-            "StackId": "arn:aws:cloudformation:us-east-1:784380094623:stack/amplify-internplanfrontend-dev-205254/dc72f790-e6e6-11ea-8883-0e2e9aec3a21",
-            "AmplifyAppId": "d10pzmepoer9cw"
+            "DeploymentBucketName": "amplify-internplanfrontend-dev-234808-deployment",
+            "UnauthRoleName": "amplify-internplanfrontend-dev-234808-unauthRole",
+            "StackName": "amplify-internplanfrontend-dev-234808",
+            "StackId": "arn:aws:cloudformation:us-east-1:784380094623:stack/amplify-internplanfrontend-dev-234808/81ab3ce0-e7c8-11ea-b75d-0eb23bbe71c5",
+            "AmplifyAppId": "d342ehcrz0cy4q"
         }
     }
 }
